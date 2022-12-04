@@ -1,0 +1,4 @@
+{
+  "driverName": "mysql",
+  "driverSourceName": "root:123@localhost:3306"
+}

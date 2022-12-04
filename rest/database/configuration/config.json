@@ -1,0 +1,4 @@
+{
+  "driverName": "mysql",
+  "dataSourceName": "root:123@/gobasic"
+}
